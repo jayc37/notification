@@ -1,0 +1,36 @@
+
+App Thinning Size Report for All Variants of Runner
+
+Variant: notification-3D5F7B65-45EC-44E3-BB6F-B738B7B7D32E.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPod9,1, os-version: 14.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], and [device: iPhone10,4, os-version: 14.0]
+App + On Demand Resources size: 11.2 MB compressed, 31.9 MB uncompressed
+App size: 11.2 MB compressed, 31.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: notification-753E85F0-7888-42A0-B482-557127F7D2C9.ipa
+Supported variant descriptors: [device: iPad5,4, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad11,7, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad5,3, os-version: 14.0], and [device: iPad13,2, os-version: 14.0]
+App + On Demand Resources size: 11.2 MB compressed, 31.9 MB uncompressed
+App size: 11.2 MB compressed, 31.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: notification-89C886C6-DAE6-4405-B31C-36D495D111D8.ipa
+Supported variant descriptors: [device: iPhone9,2, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone8,2, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], and [device: iPhone10,5, os-version: 14.0]
+App + On Demand Resources size: 11.2 MB compressed, 31.9 MB uncompressed
+App size: 11.2 MB compressed, 31.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: notification-9F5834C9-3507-4093-AFEA-5DDF2AD71AF9.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 14.0] and [device: iPhone12,1, os-version: 14.0]
+App + On Demand Resources size: 11.2 MB compressed, 31.9 MB uncompressed
+App size: 11.2 MB compressed, 31.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: notification.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 11.2 MB compressed, 31.9 MB uncompressed
+App size: 11.2 MB compressed, 31.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
